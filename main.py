@@ -5,6 +5,7 @@
 
 
 def print_hi(name):
+    # Мой комментарий 1
     # Мой комментарий 2
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
